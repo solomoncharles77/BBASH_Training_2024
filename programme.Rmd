@@ -1,0 +1,45 @@
+---
+title: "Programme"
+author: "Charles Solomon"
+date: "2024-01-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# RNA-Seq Data Analysis
+
+## Programme
+
+| Time           | Topic                                                                | Trainer                             |
+|----------------|----------------------------------------------------------------------|-------------------------------------|
+|                | **Day one - Date ------------------------**                          |                                     |
+| 08:50 -- 09:00 | Arrival and registration                                             |                                     |
+| 09:00 -- 09:10 | Welcome and introductions                                            | Nicolas Sylvius                     |
+| 09:10 -- 10:00 | Overview of NGS technologies                                         | Nicolas Sylvius                     |
+| 10:00 - 10:30  | Introduction to Unix and BASH - lecture                              | Charles Solomon                     |
+| 10:30 - 10:40  | Break                                                                |                                     |
+| 10:40 - 11:30  | Introduction to Unix and BASH - practical                            | Charles Solomon and Nicolas Sylvius |
+| 11:30 - 12:00  | File Formats & Data QC - lecture                                     | Charles Solomon                     |
+| 12:00 - 13:00  | Lunch                                                                |                                     |
+| 13:00 - 14:00  | Data QC - practical                                                  | Charles Solomon and Nicolas Sylvius |
+| 14:00 - 14:45  | Read mapping and quantification - lecture                            | Charles Solomon                     |
+| 14:45 - 15:00  | Break                                                                |                                     |
+| 15:00 - 17:00  | Read mapping and quantification - practical                          | Charles Solomon and Nicolas Sylvius |
+|                | **Day two - Date ------------------------**                          |                                     |
+| 09:00 -- 09:30 | Recap of day one                                                     | Participants                        |
+| 09:30 -- 10:00 | SAM/BAM file formats - lecture                                       | Charles Solomon                     |
+| 10:00 -- 11:00 | SAM/BAM file formats - practical                                     | Charles Solomon and Nicolas Sylvius |
+| 11:00 - 11:10  | Break                                                                |                                     |
+| 11:10 - 11:30  | Quick introduction to R and RStudio on ALICE                         | Charles Solomon                     |
+| 11:30 - 12:00  | Read quantification and differential expression analyses - lecture   | Charles Solomon                     |
+| 12:00 - 13:00  | Lunch                                                                |                                     |
+| 13:00 - 15:00  | Read quantification and differential expression analyses - practical | Charles Solomon and Nicolas Sylvius |
+| 15:00 - 15:15  | Break                                                                |                                     |
+| 15:15 - 15:45  | Reproducible research and reporting with Rmarkdown - lecture         | Charles Solomon                     |
+| 15:45 - 16:45  | Reproducible research and reporting with Rmarkdown - practical       | Charles Solomon and Nicolas Sylvius |
+| 16:45 - 17:00  | Course wrap up                                                       |                                     |
+
+## 
